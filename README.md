@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on JiangZhi
-- 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with jobs
-- 💬 Ask me about C++
+- 🔭 I’m currently working on Santachi
+- 🌱 I’m currently learning C and C++
+- 💬 Ask me about C and C++
 - 📫 How to reach me: wx1028674648@gmail.com
